@@ -1,4 +1,4 @@
-# proc-caesar
+# proc-caesar [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/matklad/proc-caesar?branch=master&svg=true)](https://ci.appveyor.com/project/matklad/proc-caesar)
 
 A proc-macro to apply Caesar cipher to Rust source code.
 
